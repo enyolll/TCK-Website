@@ -1,0 +1,453 @@
+{
+  "site": {
+    "name": "TCK",
+    "tagline": "Globales Geschäft. Lokale Präzision. Null Reibung."
+  },
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "industries": "Branchen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "menu": "Menü",
+    "close": "Schließen",
+    "language": "Sprache"
+  },
+  "cta": {
+    "requestConsultation": "Beratung anfragen",
+    "exploreServices": "Leistungen ansehen",
+    "learnMore": "Mehr erfahren",
+    "discussProject": "Projekt besprechen",
+    "contactUs": "Kontakt aufnehmen"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "company": "Unternehmen",
+    "services": "Leistungen",
+    "industries": "Branchen",
+    "contact": "Kontakt",
+    "legal": "Rechtliches",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "description": "Unabhängige grenzüberschreitende Beratung — wir verbinden europäische und koreanische Unternehmen in Sourcing, Markteintritt und OEM-Koordination."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Korea ↔ Europa Beratung",
+      "headline1": "Globales Geschäft.",
+      "headline2": "Lokale Präzision.",
+      "headline3": "Null Reibung.",
+      "sub": "TCK unterstützt internationale Unternehmen bei Markteintritt, Sourcing, Koordination und operativem Betrieb zwischen Korea und Europa — mit hands-on Ausführung vor Ort, Lieferanten-Expertise und klarer grenzüberschreitender Kommunikation.",
+      "signals": [
+        "Deutsch geführte Beratung seit 2008",
+        "70+ abgeschlossene Projekte",
+        "Korea ↔ Europa Expertise",
+        "Dreisprachig: DE · EN · KO"
+      ]
+    },
+    "metrics": {
+      "title": "Aufgebaut auf direkter Praxiserfahrung",
+      "items": {
+        "experience": "Jahre internationale Handelserfahrung",
+        "projects": "abgeschlossene Projekte",
+        "suppliers": "betreute Lieferanten",
+        "countries": "Länder im aktiven Einsatz"
+      }
+    },
+    "services": {
+      "eyebrow": "Was wir tun",
+      "title": "Praktische Unterstützung über den gesamten grenzüberschreitenden Lebenszyklus",
+      "sub": "Von der ersten Sourcing-Anfrage bis zum laufenden Betrieb — wir übernehmen die Aufgaben, die internationale Teams aus dem Ausland nicht effizient steuern können.",
+      "items": {
+        "sourcing": {
+          "title": "Direkt bei qualifizierten Lieferanten sourcen",
+          "body": "Identifikation, Qualifizierung und Verhandlung mit geprüften europäischen und koreanischen Lieferanten — gestützt durch Werksbesuche, Audits und Referenzprüfungen."
+        },
+        "marketEntry": {
+          "title": "Korea betreten — ohne regulatorische Verzögerungen",
+          "body": "Importverfahren, Zertifizierungswege, Kennzeichnungsanforderungen und Partnervorstellung — mit lokalem Marktwissen umgesetzt."
+        },
+        "communication": {
+          "title": "Sprache, Kultur und Umsetzung verbinden",
+          "body": "Vertretung vor Ort und dreisprachige Begleitung in Deutsch, Englisch und Koreanisch — für Verhandlung, Koordination und Nachverfolgung."
+        },
+        "supplements": {
+          "title": "Deutsche Qualitäts-Supplements in Korea einführen",
+          "body": "Komplette Made-in-Germany Supplement-Koordination: Rezeptur, Lohnherstellung, Korea-Import und KFDA-Verfahren."
+        },
+        "qc": {
+          "title": "Ihre Sendung absichern — bevor sie das Werk verlässt",
+          "body": "Vorversand-Inspektionen, Werksaudits und laufende QC — damit Probleme am Ursprungsort erkannt werden, nicht im Zoll."
+        },
+        "industrial": {
+          "title": "Industrieprojekte vor Ort in Bewegung halten",
+          "body": "Vor-Ort-Koordination, technische Dokumentation und Lieferantenbetreuung für Maschinen- und Anlagenprogramme in Korea."
+        }
+      }
+    },
+    "specialization": {
+      "eyebrow": "Unsere Spezialisierung",
+      "title": "Made-in-Germany Nahrungsergänzungs-Lösungen",
+      "sub": "Wir koordinieren Supplement-Programme von A bis Z für Marken, die die Glaubwürdigkeit deutscher Fertigung mit der Geschwindigkeit eines einzigen verantwortlichen Partners verbinden möchten.",
+      "bullets": {
+        "oem": "OEM-Koordination mit auditierten deutschen Lohnherstellern",
+        "ingredients": "Rohstoff-Sourcing — geprüfte europäische Zulieferer",
+        "supplier": "Lieferantensteuerung und Qualitäts-Benchmarking",
+        "import": "Korea-Import: KFDA-Verfahren, Kennzeichnung, Zoll",
+        "regulatory": "Regulatorische Abstimmung zwischen EU und Korea"
+      },
+      "primaryCta": "OEM-Projekt besprechen",
+      "secondaryCta": "Branchen-Notiz lesen"
+    },
+    "whyTck": {
+      "eyebrow": "Warum TCK",
+      "title": "Warum Unternehmen sich für TCK entscheiden",
+      "sub": "Kein großes Beratungshaus mit lokalem Schreibtisch. Eine spezialisierte Praxis, die in Korea lebt und arbeitet.",
+      "items": {
+        "presence": {
+          "num": "01",
+          "title": "Wir sind in Korea — nicht aus der Distanz beratend",
+          "body": "Präsenz vor Ort bedeutet schnellere Reaktionen, lokale Probleme lokal gelöst und keine Information, die auf dem Transportweg verloren geht."
+        },
+        "fluency": {
+          "num": "02",
+          "title": "Europäische Standards kombiniert mit koreanischer Marktkenntnis",
+          "body": "Wir schließen die Lücke, die die meisten grenzüberschreitenden Projekte ins Stocken bringt — nicht nur in der Sprache, sondern in Geschäftserwartungen und Arbeitsweise."
+        },
+        "execution": {
+          "num": "03",
+          "title": "Wir koordinieren die Umsetzung — nicht nur die Strategie",
+          "body": "Wir übergeben kein Framework und gehen. Wir verfolgen nach, koordinieren Details und bleiben verantwortlich, bis die Arbeit erledigt ist."
+        },
+        "endToEnd": {
+          "num": "04",
+          "title": "Lieferanten, Dokumente, Inspektionen — ein Auftrag",
+          "body": "Alles als verbundenen Workflow gesteuert — keine Lücken zwischen Beratern, keine gebrochenen Übergaben, keine parallele Verwirrung."
+        },
+        "prevention": {
+          "num": "05",
+          "title": "Kostspielige Fehler werden erkannt, bevor sie entstehen",
+          "body": "Die meisten grenzüberschreitenden Fehler sind vermeidbar. Wir identifizieren sie früh, weil wir dieselben Situationen viele Male erlebt haben."
+        }
+      }
+    },
+    "audience": {
+      "eyebrow": "Mit wem wir arbeiten",
+      "title": "Auf beiden Seiten des Korridors verlässlich",
+      "items": {
+        "importers": {
+          "title": "Koreanische Importeure",
+          "body": "Identifizierung, Qualifizierung und Onboarding europäischer Lieferanten — mit Due Diligence vor Ort."
+        },
+        "supplements": {
+          "title": "Supplement-Marken",
+          "body": "Komplette Made-in-Germany OEM-Programme, einsatzbereit für den koreanischen Markt."
+        },
+        "sourcing": {
+          "title": "Produkt- und Rohstoff-Sourcing",
+          "body": "Grenzüberschreitendes Sourcing von Fertigware, Zutaten und industriellen Vorprodukten."
+        },
+        "qc": {
+          "title": "Inspektion & Qualitätskontrolle",
+          "body": "Vorversand-Inspektionen, Werksaudits und wiederkehrende QC-Aufsicht."
+        },
+        "marketEntry": {
+          "title": "Markteintritt Korea",
+          "body": "Importverfahren, Zertifizierungen und Kanalvorstellungen für europäische Marken."
+        },
+        "distributors": {
+          "title": "Distributoren & Partnersuche",
+          "body": "Gezielte Partneridentifikation, Prüfung und Verhandlungsbegleitung."
+        },
+        "setup": {
+          "title": "Geschäftsaufbau in Korea",
+          "body": "Lokale Niederlassung, Registrierungen und operative Begleitung für europäische Unternehmen."
+        }
+      }
+    },
+    "experience": {
+      "eyebrow": "Ausgewählte Erfahrung",
+      "title": "Marken und Unternehmen, mit denen wir gearbeitet haben",
+      "sub": "Branchenerfahrung in Lebensmittel & Getränke, Nahrungsergänzung, Kosmetik sowie Industrie und Logistik. Die gezeigten Logos verweisen auf Projekterfahrung und implizieren keine Empfehlung oder offizielle Partnerschaft.",
+      "categories": {
+        "food": "Lebensmittel & Getränke",
+        "supplements": "Nahrungsergänzung",
+        "cosmetics": "Kosmetik",
+        "beer": "Biermarken",
+        "industrial": "Industrie / Logistik"
+      }
+    },
+    "process": {
+      "eyebrow": "Wie wir arbeiten",
+      "title": "Ein direkter Drei-Schritte-Ablauf",
+      "steps": {
+        "inquiry": {
+          "title": "1. Anfrage",
+          "body": "Briefing teilen — Produkte, Mengen, Zeitrahmen, Zielmarkt. Antwort innerhalb von zwei Werktagen."
+        },
+        "evaluation": {
+          "title": "2. Bewertung",
+          "body": "Machbarkeit, Lieferanten-Shortlist, regulatorischer Pfad und Festpreis-Leistungsumfang."
+        },
+        "execution": {
+          "title": "3. Umsetzung",
+          "body": "Praktische Steuerung von Vertrag bis Lieferung — mit Wochenreports in Ihrer Sprache."
+        }
+      }
+    },
+    "about": {
+      "eyebrow": "Die Person hinter der Arbeit",
+      "title": "Ein deutscher Berater in Korea seit 2008 — er löst die praktischen Probleme, die zwischen Strategie und Umsetzung entstehen.",
+      "body": "TCK wird von Markus Rathenow geführt — einem deutschen Berater mit über 15 Jahren in Korea und mehr als einem Jahrzehnt internationaler Handelserfahrung. Sein Ansatz ist direkt: weniger Aufträge, mehr Tiefe — und die dreisprachige Souveränität, die dafür sorgt, dass ein Vertrag einmal verhandelt wird, nicht dreimal.",
+      "highlights": {
+        "trilingual": "Dreisprachig: Deutsch · Englisch · Koreanisch",
+        "based": "Seit 2008 in Korea ansässig",
+        "handson": "Direktes Engagement von Briefing bis Lieferung",
+        "cross": "Echte interkulturelle und kommerzielle Souveränität"
+      },
+      "cta": "Mehr über TCK"
+    },
+    "finalCta": {
+      "eyebrow": "Kontakt aufnehmen",
+      "title": "Bereit, die Reibung zwischen Korea und Europa zu reduzieren?",
+      "sub": "Teilen Sie uns mit, was Sie sourcen, einführen oder koordinieren möchten. TCK hilft Ihnen, die praktischen nächsten Schritte zu identifizieren.",
+      "primary": "Beratung anfragen",
+      "secondary": "Direkt per E-Mail"
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Leistungen",
+      "title": "Grenzüberschreitende Leistungen für europäische und koreanische Unternehmen",
+      "sub": "Sieben fokussierte Praxisbereiche — alle direkt durch erfahrene Spezialisten erbracht, niemals an eine Black-Box ausgelagert."
+    },
+    "sections": {
+      "sourcing": {
+        "title": "Produkt-Sourcing & Lieferkette",
+        "overview": "Identifikation und Qualifizierung europäischer und koreanischer Lieferanten für Fertigware, Zutaten und industrielle Komponenten. Hands-on, mit Werksbesuchen und Konditionen, die der realen Produktion standhalten.",
+        "items": [
+          "Lieferantensuche und Shortlist",
+          "Werksbesuche, Audits, Referenzprüfung",
+          "Muster-Koordination und Werkzeugaufsicht",
+          "Verhandlung von Preis, MOQ und Vertrag",
+          "Laufendes Lieferantenmanagement"
+        ],
+        "benefits": "Geringeres Lieferantenrisiko, planbare Lieferzeiten und marktgerechte Preise."
+      },
+      "marketEntry": {
+        "title": "Markteintritt & Importberatung",
+        "overview": "Strukturierter Markteintritt nach Korea — vom regulatorischen Pfad bis zur ersten Lieferung und zur Kanalvorstellung. Für europäische Marken mit ernsthafter Langfristperspektive.",
+        "items": [
+          "Zoll-, HS-Code- und Regulierungsanalyse",
+          "KFDA-, MFDS- und Zertifizierungspfade",
+          "Koreanische Kennzeichnung und Verpackung",
+          "Distributoren- und Channel-Partnersuche",
+          "Pilot-Launch und Preisstrategie"
+        ],
+        "benefits": "Ein klarer, sequenzierter Plan — statt einer regulatorischen Überraschung im dritten Monat."
+      },
+      "communication": {
+        "title": "Geschäftskommunikation & Vertretung",
+        "overview": "Tagesgeschäft auf beiden Seiten — in Ihrer Zeitzone und Ihrer Sprache. Wir agieren als Ihre lokale Erweiterung, nicht als Übersetzungsdienst.",
+        "items": [
+          "Verhandlungsbegleitung in DE / EN / KO",
+          "Meeting-Teilnahme vor Ort und remote",
+          "Kontaktstelle für Käufer und Lieferanten",
+          "Vertretung auf Messen und B2B-Events",
+          "Dokumentenprüfung und Vertragsklärung"
+        ],
+        "benefits": "Schnellere Entscheidungen, weniger Missverständnisse — und ein verantwortlicher Partner für das Ergebnis."
+      },
+      "supplements": {
+        "title": "Nahrungsergänzungs-Lösungen",
+        "overview": "Komplette Steuerung von Made-in-Germany Supplement-Programmen — von der Rezeptur bis ins koreanische Regal. Unsere am häufigsten angefragte und tiefste Spezialisierung.",
+        "items": [
+          "Rezeptur-Briefings und Hersteller-Matching",
+          "Rohstoff-Sourcing bei europäischen Lieferanten",
+          "Produktionsplanung und Qualitätsaufsicht",
+          "Korea-Import, KFDA-Einreichung und Kennzeichnung",
+          "Markenübergabe und Distributor-Vorstellung"
+        ],
+        "benefits": "Ein glaubwürdiges Made-in-Germany-Produkt, einsatzbereit für Korea — ohne fünf Lieferanten parallel zu jonglieren."
+      },
+      "technical": {
+        "title": "Technische & Vor-Ort-Begleitung",
+        "overview": "Praktische technische Koordination, wenn jemand physisch vor Ort gebraucht wird — Installation, Inbetriebnahme, Schulung oder Troubleshooting.",
+        "items": [
+          "Vor-Ort-Koordination in ganz Korea",
+          "Übersetzung technischer Dokumentation",
+          "Installations- und Inbetriebnahme-Begleitung",
+          "Bedienerschulung auf Koreanisch",
+          "Identifikation lokaler Service-Partner"
+        ],
+        "benefits": "Verlässliche Präsenz vor Ort — ohne dass Ihre Ingenieure für jedes Thema einfliegen müssen."
+      },
+      "qc": {
+        "title": "Inspektion & Qualitätskontrolle",
+        "overview": "Unabhängige Vorversand-Inspektionen, Werksaudits und laufende QC-Aufsicht — sie schützen Ihre Marke und Ihre Käufer vor vermeidbaren Problemen.",
+        "items": [
+          "Vorversand-Inspektionen (PSI)",
+          "Werks- und Lieferantenaudits",
+          "Linien-Monitoring während der Produktion",
+          "QC-Reporting und CAPA-Verfolgung",
+          "Musterarchivierung und Streitfallunterstützung"
+        ],
+        "benefits": "Probleme werden vor dem Containerschluss erkannt — nicht im Zoll."
+      },
+      "setup": {
+        "title": "Geschäftsaufbau in Korea",
+        "overview": "Praktische Begleitung für europäische Unternehmen, die in Korea Präsenz aufbauen — von der Registrierung bis zur ersten Einstellung.",
+        "items": [
+          "Niederlassung / Repräsentanzbüro",
+          "Gründung einer lokalen Tochtergesellschaft",
+          "Steuer- und Umsatzsteuerregistrierung",
+          "Geschäftskonto und Zahlungsabwicklung",
+          "Erste operative Einstellungen"
+        ],
+        "benefits": "Eine arbeitsfähige koreanische Einheit in Monaten — nicht in Quartalen."
+      }
+    }
+  },
+  "industries": {
+    "hero": {
+      "eyebrow": "Branchen",
+      "title": "Branchenerfahrung im Korea-Europa-Korridor",
+      "sub": "Fünf Branchen, in denen wir direkte und wiederkehrende Projekterfahrung haben."
+    },
+    "items": {
+      "supplements": {
+        "title": "Nahrungsergänzung",
+        "body1": "Unsere tiefste Spezialisierung. Komplette Made-in-Germany OEM-Programme — Rezeptur, Lohnherstellung, Rohstoff-Sourcing, Korea-Import und KFDA-Pfad.",
+        "body2": "Aufgebaut auf langjährigen Beziehungen zu auditierten deutschen Herstellern und koreanischen Distributoren mit Kategorieverständnis."
+      },
+      "food": {
+        "title": "Lebensmittel & Getränke",
+        "body1": "Sourcing europäischer Spezialitäten, Tiefkühlware und Getränke für koreanische Importeure und Händler — bevorzugt HACCP-konforme Lieferanten.",
+        "body2": "Pragmatische Begleitung bei Kennzeichnung, Kühlkettenlogistik und kategoriespezifischen Importverfahren."
+      },
+      "industrial": {
+        "title": "Industrieausrüstung",
+        "body1": "Vor-Ort-Koordination für Industriemaschinen- und Elektronikprogramme — Installationsbegleitung, technische Dokumentation und koreanische Bedienerschulung.",
+        "body2": "Langjährige Beziehungen zu europäischen OEMs und koreanischen Integratoren in Laser-, Automations- und Verfahrenstechnik."
+      },
+      "raw": {
+        "title": "Rohstoffe",
+        "body1": "Grenzüberschreitendes Sourcing von Lebensmittel- und Industrierohstoffen mit strikter QC, Rückverfolgbarkeit und konstanter Chargenqualität.",
+        "body2": "Auditierte Lieferanten, Muster- und Versuchsabläufe, klare Verträge — robust auch bei realen Toleranzthemen."
+      },
+      "cosmetics": {
+        "title": "Kosmetik",
+        "body1": "Begleitung europäischer Kosmetikmarken in den koreanischen Markt — Registrierung, Zutaten-Compliance und Kanalvorstellung.",
+        "body2": "Besondere Stärke bei Clean-Beauty- und Naturkosmetik-Positionierungen, wo regulatorische und narrative Konsistenz zentral sind."
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Über TCK",
+      "title": "Unabhängige grenzüberschreitende Beratung — aufgebaut in Korea",
+      "sub": "TCK existiert, weil europäische und koreanische Unternehmen einen Partner verdienen, der die jeweils andere Seite wirklich versteht — operativ, kulturell und kommerziell."
+    },
+    "founder": {
+      "title": "Markus Rathenow, Founder & CEO",
+      "body1": "Deutscher Berater mit über 15 Jahren in Korea und mehr als einem Jahrzehnt internationaler Handelserfahrung. Vor TCK war Markus in Sourcing, OEM-Koordination und Qualitätskontrolle tätig — zunächst in Europa, später in Seoul vor Ort.",
+      "body2": "Sein Ansatz ist direkt: weniger Projekte, mehr Tiefe — und die dreisprachige Souveränität (Deutsch · Englisch · Koreanisch), die dafür sorgt, dass ein Vertrag einmal verhandelt wird statt dreimal.",
+      "quote": "Die meisten grenzüberschreitenden Probleme sind nicht regulatorisch — sie sind Kommunikationsprobleme. Löse die Kommunikation, dann folgt der Rest."
+    },
+    "timeline": {
+      "title": "Kurze Timeline",
+      "items": {
+        "y2008": {
+          "year": "2008",
+          "label": "Umzug nach Korea; Beginn der Vollzeit-Tätigkeit im Cross-Border-Geschäft."
+        },
+        "y2012": {
+          "year": "2012",
+          "label": "Erweiterung um OEM- und Qualitätskontroll-Programme."
+        },
+        "y2018": {
+          "year": "2018",
+          "label": "Spezialisierung auf Made-in-Germany Nahrungsergänzung."
+        },
+        "y2024": {
+          "year": "2024",
+          "label": "TCK formalisiert als unabhängige Beratungspraxis."
+        }
+      }
+    },
+    "expertise": {
+      "title": "Expertise",
+      "items": {
+        "sourcing": "Europäische und koreanische Lieferantennetzwerke",
+        "regulatory": "EU- und koreanische Importregulierung",
+        "oem": "OEM- und Lohnherstellungs-Programme",
+        "qc": "Unabhängige Qualitätskontrolle und Inspektion",
+        "negotiation": "Dreisprachige Vertragsverhandlung",
+        "operations": "Praktischer Tagesbetrieb"
+      }
+    },
+    "approach": {
+      "title": "So arbeiten wir",
+      "items": {
+        "direct": {
+          "title": "Direkt, nicht delegiert",
+          "body": "Sie arbeiten mit der Person, die das Projekt angeboten hat — nicht mit einem Junior-Account-Manager."
+        },
+        "trilingual": {
+          "title": "Dreisprachig als Standard",
+          "body": "Deutsch, Englisch und Koreanisch werden austauschbar genutzt — damit nichts in der Übersetzung verloren geht."
+        },
+        "honest": {
+          "title": "Ehrliches Scoping",
+          "body": "Projekte, die nicht passen, lehnen wir ab. Kleinere Reichweite, höhere Überzeugung, Festpreise."
+        },
+        "longterm": {
+          "title": "Langfristige Beziehungen",
+          "body": "Die meisten Mandanten kommen innerhalb von zwölf Monaten zurück. Wir arbeiten dafür, dass sich das lohnt."
+        }
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Kontakt",
+      "title": "Lassen Sie uns Ihr Projekt besprechen",
+      "sub": "Senden Sie ein kurzes Briefing — wir antworten innerhalb von zwei Werktagen, in Englisch, Deutsch oder Koreanisch."
+    },
+    "form": {
+      "name": "Vollständiger Name",
+      "company": "Unternehmen",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "projectType": "Projekttyp",
+      "message": "Beschreiben Sie Ihr Projekt",
+      "messagePlaceholder": "Kurze Beschreibung Ihrer Ziele, Produkte, Mengen und des Zeitrahmens.",
+      "submit": "Nachricht senden",
+      "submitting": "Wird gesendet…",
+      "successTitle": "Nachricht angekommen",
+      "successBody": "Vielen Dank. Wir antworten innerhalb von zwei Werktagen.",
+      "errorTitle": "Senden fehlgeschlagen",
+      "errorBody": "Ein Fehler ist aufgetreten. Bitte schreiben Sie uns direkt per E-Mail.",
+      "required": "Pflichtfeld",
+      "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+      "tooShort": "Bitte etwas ausführlicher (mind. 10 Zeichen)",
+      "projectTypes": {
+        "sourcing": "Produkt-Sourcing",
+        "marketEntry": "Markteintritt",
+        "supplements": "Supplement-OEM",
+        "qc": "Inspektion / QC",
+        "industrial": "Industrielle Koordination",
+        "other": "Sonstiges"
+      }
+    },
+    "office": {
+      "title": "Büro",
+      "addressLabel": "Adresse",
+      "emailLabel": "E-Mail",
+      "phoneLabel": "Telefon",
+      "hoursLabel": "Bürozeiten",
+      "mapLabel": "Karte"
+    },
+    "languages": "Wir kommunizieren auf Englisch, Koreanisch und Deutsch."
+  }
+}
