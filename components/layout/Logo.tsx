@@ -4,9 +4,11 @@ import { cn } from '@/lib/cn'
 export function Logo({
   className,
   tone = 'ink',
+  src = '/logo/TCK_Logo_TR.png',
 }: {
   className?: string
   tone?: 'ink' | 'white'
+  src?: string
 }) {
   if (tone === 'white') {
     return (
@@ -23,11 +25,11 @@ export function Logo({
   return (
     <span className={cn('inline-flex items-center', className)} aria-label="TCK">
       <Image
-        src="/logo/tck.jpg"
+        src={src}
         alt="TCK"
-        width={90}
-        height={36}
-        className="object-contain"
+        width={64}
+        height={20}
+        className="object-contain w-full h-auto max-w-[210px]"
         priority
       />
     </span>

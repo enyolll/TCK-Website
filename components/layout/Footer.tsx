@@ -17,7 +17,7 @@ export function Footer() {
     <footer className="border-t border-[var(--color-border)] bg-[var(--color-surface)]">
       <Container className="grid gap-12 py-16 lg:grid-cols-12 lg:gap-10 lg:py-20">
         <div className="lg:col-span-5">
-          <Logo />
+          <Logo className="w-210" src="/logo/TCK_Logo_Footer.svg"/>
           <p className="mt-5 max-w-sm text-[15px] leading-relaxed text-[var(--color-muted)]">
             {t('description')}
           </p>
