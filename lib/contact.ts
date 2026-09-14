@@ -1,7 +1,7 @@
 export const TCK_CONTACT = {
   ceo: 'Markus Rathenow',
   ceoTitle: 'Founder & CEO',
-  email: 'mrathenow@naver.com',
+  email: 'markus.rathenow@gmail.com',
   phone: '+82 10-2255-2138',
   phoneHref: 'tel:+821022552138',
   addressEn:

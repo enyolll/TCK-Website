@@ -1,5 +1,8 @@
 import { NextResponse } from 'next/server'
 import { z } from 'zod'
+import { Resend } from 'resend'
+
+const resend = new Resend(process.env.RESEND_API_KEY)
 
 const ContactSchema = z.object({
   name: z.string().min(1).max(120),
@@ -27,11 +30,28 @@ export async function POST(request: Request) {
     )
   }
 
-  // Stub: in production wire up Resend / Formspree / SES.
-  console.log('[contact] new inquiry', {
-    ...parsed.data,
-    receivedAt: new Date().toISOString(),
-  })
+  const { name, company, email, phone, projectType, message } = parsed.data
+
+  try {
+    await resend.emails.send({
+      from: process.env.CONTACT_FROM_EMAIL ?? 'TCK Website <onboarding@resend.dev>',
+      to: process.env.CONTACT_TO_EMAIL ?? 'mrathenow@naver.com',
+      replyTo: email,
+      subject: `New inquiry from ${name}${company ? ` (${company})` : ''}`,
+      text: [
+        `Name: ${name}`,
+        `Email: ${email}`,
+        company && `Company: ${company}`,
+        phone && `Phone: ${phone}`,
+        projectType && `Project type: ${projectType}`,
+        '',
+        message,
+      ].filter(Boolean).join('\n'),
+    })
+  } catch (err) {
+    console.error('[contact] resend error', err)
+    return NextResponse.json({ ok: false, error: 'send_failed' }, { status: 502 })
+  }
 
   return NextResponse.json({ ok: true })
 }
